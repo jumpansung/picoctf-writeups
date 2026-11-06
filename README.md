@@ -10,6 +10,7 @@ i am currently learning binary exploitation and planning to move onto reverse en
 | Buffer Overflow 1 | Binary Exploitation | ✅ Completed |
 | Buffer Overflow 2 | Binary Exploitation | ✅ Completed |
 | Buffer Overflow 3 | Binary Exploitation | ✅ Completed |
+| echo escape 1 | Binary Exploitation | ✅ Completed |
 
 ## **topics i am learning so far**
 
