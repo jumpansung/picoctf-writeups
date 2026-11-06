@@ -22,4 +22,4 @@ i am currently learning binary exploitation and planning to move onto reverse en
 - pwntools
 - binary exploitation techniques
 
-these writeups document my process in learning, expect mistakes and solutions i got with the help of assistance 
+## these writeups document my process in learning, expect mistakes and solutions i got with the help of assistance 
